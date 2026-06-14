@@ -212,6 +212,7 @@ This project will evolve into a full-stack application:
 Built by **Mohammad Walid Al Masri** — Software Developer based in Beirut, Lebanon.
 
 LinkedIn: www.linkedin.com/in/mohammad-walid-al-masri-47749b242
+GitHub: https://github.com/mohammadcreates/BrewedandCo
 ---
 
 ## 📝 License
