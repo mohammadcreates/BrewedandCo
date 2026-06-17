@@ -18,7 +18,7 @@ function About() {
       <section className="bg-amber-950 py-20 text-center relative overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_30%_60%,_#7b4f2e55_0%,_transparent_55%)] pointer-events-none" />
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_75%_25%,_#c8a88218_0%,_transparent_45%)] pointer-events-none" />
-        <h1 className="font-serif text-6xl font-bold text-amber-50 tracking-wide relative z-10 mb-4">
+        <h1 className="font-serif text-4xl sm:text-5xl md:text-6xl font-bold text-amber-50 tracking-wide relative z-10 mb-4">
           Our Story
         </h1>
         <p className="font-serif text-xl italic text-amber-300 relative z-10 max-w-lg mx-auto leading-relaxed px-6">
@@ -33,7 +33,7 @@ function About() {
             <p className="text-xs font-medium tracking-widest uppercase text-amber-400 mb-3">
               Est. 2015 · Beirut
             </p>
-            <h2 className="font-serif text-4xl font-bold text-amber-950 leading-tight mb-6">
+            <h2 className="font-serif text-3xl sm:text-4xl font-bold text-amber-950 leading-tight mb-6">
               From one cup to thousands of smiles
             </h2>
             <p className="text-amber-700 font-light leading-relaxed mb-4">
@@ -67,7 +67,7 @@ function About() {
       <section className="bg-amber-950 py-20 px-6">
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-14">
-            <h2 className="font-serif text-4xl font-bold text-amber-50 mb-2">What we stand for</h2>
+            <h2 className="font-serif text-3xl sm:text-4xl font-bold text-amber-50 mb-2">What we stand for</h2>
             <p className="text-amber-600 text-sm font-light">The principles that guide every cup we make</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -90,7 +90,7 @@ function About() {
       <section className="bg-amber-50 py-20 px-6">
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12">
-            <h2 className="font-serif text-4xl font-bold text-amber-950 mb-2">The faces behind your cup</h2>
+            <h2 className="font-serif text-3xl sm:text-4xl font-bold text-amber-950 mb-2">The faces behind your cup</h2>
             <p className="text-amber-500 text-sm font-light">A small team with a big passion</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -114,7 +114,7 @@ function About() {
 
       {/* Promise */}
       <section className="bg-amber-300 py-16 px-6 text-center">
-        <h2 className="font-serif text-4xl font-bold text-amber-950 mb-4">
+        <h2 className="font-serif text-3xl sm:text-4xl font-bold text-amber-950 mb-4">
           Come as you are
         </h2>
         <p className="text-amber-900 font-light max-w-xl mx-auto mb-8 leading-relaxed">

@@ -172,7 +172,7 @@ function Menu() {
 
       {/* Hero */}
       <section className="bg-amber-950 py-16 text-center">
-        <h1 className="font-serif text-5xl font-bold text-amber-50 tracking-wide mb-2">Our Menu</h1>
+        <h1 className="font-serif text-4xl sm:text-5xl font-bold text-amber-50 tracking-wide mb-2">Our Menu</h1>
         <p className="text-amber-300 font-light text-base">Something for every mood, every moment.</p>
       </section>
 

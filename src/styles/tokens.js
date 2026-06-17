@@ -1,6 +1,6 @@
 export const tokens = {
   // Text
-  pageTitle: 'font-serif text-4xl font-bold text-amber-950',
+  pageTitle: 'font-serif text-3xl sm:text-4xl font-bold text-amber-950',
   sectionTitle: 'font-serif text-xl font-semibold text-amber-950',
   label: 'text-[11px] font-medium text-amber-400 uppercase tracking-wide',
   muted: 'text-sm text-amber-700',

@@ -25,7 +25,7 @@ function Home() {
       <section className="bg-amber-950 min-h-[90vh] flex flex-col items-center justify-center text-center px-6 relative overflow-hidden">
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_20%_50%,_#7b4f2e44_0%,_transparent_50%)] pointer-events-none" />
         <div className="absolute inset-0 bg-[radial-gradient(circle_at_80%_30%,_#c8a88222_0%,_transparent_45%)] pointer-events-none" />
-        <h1 className="font-serif text-6xl font-bold text-amber-50 leading-tight mb-4 tracking-wide relative z-10">
+        <h1 className="font-serif text-4xl sm:text-5xl md:text-6xl font-bold text-amber-50 leading-tight mb-4 tracking-wide relative z-10">
           Breathe. Sip. Relax.
         </h1>
         <p className="text-amber-300 text-lg font-light max-w-md leading-relaxed mb-2 relative z-10">
@@ -62,7 +62,7 @@ function Home() {
 
       {/* Featured Section */}
       <section className="bg-amber-50 py-20 px-6">
-        <h2 className="font-serif text-4xl font-bold text-amber-950 text-center mb-12">
+        <h2 className="font-serif text-3xl sm:text-4xl font-bold text-amber-950 text-center mb-12">
           Our Favorites
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto">
@@ -82,7 +82,7 @@ function Home() {
 
       {/* About Snippet */}
       <section className="bg-amber-300 py-16 px-6 text-center">
-        <h2 className="font-serif text-4xl font-bold text-amber-950 mb-4">
+        <h2 className="font-serif text-3xl sm:text-4xl font-bold text-amber-950 mb-4">
           Our Story
         </h2>
         <p className="text-amber-900 font-light max-w-xl mx-auto mb-6 leading-relaxed">
@@ -98,7 +98,7 @@ function Home() {
 
       {/* Locations Section */}
       <section id="locations" className="bg-amber-50 py-20 px-6">
-        <h2 className="font-serif text-4xl font-bold text-amber-950 text-center mb-2">
+        <h2 className="font-serif text-3xl sm:text-4xl font-bold text-amber-950 text-center mb-2">
           Find Us
         </h2>
         <p className="text-center text-amber-700 text-sm mb-12">
